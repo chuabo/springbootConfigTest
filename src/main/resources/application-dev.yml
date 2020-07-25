@@ -1,0 +1,4 @@
+hbase:
+  conf:
+    configMap[hbase.zookeeper.quorum]: yngth001.ynldr.gov.cn,yngth002.ynldr.gov.cn,yngth003.ynldr.gov.cn
+    configMap[hbase.zookeeper.clientPort]: 2182
